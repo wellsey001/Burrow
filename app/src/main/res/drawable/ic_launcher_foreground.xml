@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Burrow icon: a folder with a round burrow entrance. 108dp adaptive foreground. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- folder back + tab -->
+    <path
+        android:fillColor="#FFE0A33C"
+        android:pathData="M30,38 Q30,34 34,34 L48,34 L53,39 L74,39 Q78,39 78,43 L78,72 Q78,76 74,76 L34,76 Q30,76 30,72 Z" />
+    <!-- folder front -->
+    <path
+        android:fillColor="#FFF4C065"
+        android:pathData="M30,46 Q30,43 33,43 L75,43 Q78,43 78,46 L78,72 Q78,76 74,76 L34,76 Q30,76 30,72 Z" />
+    <!-- burrow entrance -->
+    <path
+        android:fillColor="#FF1F3A2E"
+        android:pathData="M44,76 L44,66 A10,10 0 0,1 64,66 L64,76 Z" />
+    <!-- grass tufts -->
+    <path
+        android:fillColor="#FF7FCB8E"
+        android:pathData="M40,76 L42,70 L44,76 Z M64,76 L66,69 L68,76 Z M69,76 L70.5,72 L72,76 Z" />
+</vector>
